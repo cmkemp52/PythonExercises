@@ -1,0 +1,1 @@
+This is a series of Python exercises completed while learning the language.
